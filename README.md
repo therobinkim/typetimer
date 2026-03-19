@@ -1,5 +1,9 @@
 # typetimer
 
+A typing speed app I built to debug an issue I was having with my keyboard.
+
+Live at https://typetimer.netlify.app/
+
 ## Development
 
 Everything is contained in `index.html`.
